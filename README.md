@@ -1,5 +1,5 @@
 # Go-To-REST API 
-A REST API template with a load balancer.
+A REST API template with a load .
 
 ## Installation & Run
 
